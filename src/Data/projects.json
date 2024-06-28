@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Random Color geneartor",
+    "imageSrc": "projects/RandomColor.jpg",
+    "description": "This is a project where user can create random RGB/hex Color",
+    "skills": [
+      "React components",
+      "React hooks"
+    ],
+    "demo": "https://regal-jalebi-a03bde.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Digital Clock",
+    "imageSrc": "projects/Clock.jpg",
+    "description": "This is a simple digital clock project made with react js",
+    "skills": [
+      "React components",
+      "React hooks"
+    ],
+    "demo": "https://jade-sherbet-eb105d.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Todo App",
+    "imageSrc": "projects/TodoApp.jpg",
+    "description": "This is a project where user can prioritize his daily task and delete ",
+    "skills": [
+      "React components",
+      "React hooks"
+    ],
+    "demo": "https://candid-bunny-d47e94.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Qr Code Generator",
+    "imageSrc": "projects/QRGenerator.jpg",
+    "description": "This is a project where user can code string to QR code and unlock with scanner",
+    "skills": [
+      "React components",
+      "React hooks"
+    ],
+    "demo": "https://stunning-malasada-c9c457.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/TicTacToe.jpg",
+    "description": "This is a project where two users can play tic tac toe",
+    "skills": [
+      "React components",
+      "React hooks"
+    ],
+    "demo": "https://effortless-daffodil-a0dbe7.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Social Media App",
+    "imageSrc": "projects/SocialMediaApp.jpg",
+    "description": "This is a project where user can post and homepage displays the feed",
+    "skills": [
+      "React components",
+      "React hooks"
+    ],
+    "demo": "https://tiny-halva-f16bfc.netlify.app/",
+    "source": "https://www.github.com"
+  }
+]
